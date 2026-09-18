@@ -8,22 +8,6 @@ Um jogo educativo no estilo *survivor* (inspirado em Vampire Survivors), onde vo
 
 ---
 
-## 📸 Screenshots
-
-### Combate e sistema de XP
-![Gameplay com barra de XP](screenshots/gameplay_xp.png)
-
-### Menu inicial
-![Tela de início](screenshots/start_screen.png)
-
-### Subida de nível
-![Painel de escolha de upgrade](screenshots/level_up.png)
-
-### Fim de jogo
-![Tela de game over](screenshots/game_over.png)
-
----
-
 ## 🎮 Sobre o jogo
 
 Você controla um tubarão herói que ataca automaticamente os inimigos mais próximos — latas de lixo que representam a poluição marinha. Sobreviva o máximo possível, derrote inimigos para ganhar XP, suba de nível e escolha upgrades para ficar mais forte a cada partida.
@@ -150,9 +134,3 @@ Ao rodar o projeto pela primeira vez no editor, a câmera pode não seguir o jog
 ## 🎵 Créditos de áudio
 
 Trilhas sonoras e efeitos sonoros obtidos via [Pixabay](https://pixabay.com/music/), sob a *Pixabay Content License* (uso livre, incluindo comercial, sem exigência de atribuição).
-
----
-
-## 📄 Licença
-
-*(a definir — adicione aqui a licença escolhida para o projeto, ex: MIT, GPL, ou "Todos os direitos reservados" caso não seja open-source)*
